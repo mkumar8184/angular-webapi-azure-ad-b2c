@@ -1,4 +1,4 @@
-# Authencation using Azure AD B2C in Angular & Protect .Net 6.0 Web Api
+# Authentication using Azure AD B2C in Angular & Protect .Net 6.0 Web Api
 ## Pass jwt token from Angular to .Net Web Api
 ## Protect route in Angular 
  ### Login Page : --
