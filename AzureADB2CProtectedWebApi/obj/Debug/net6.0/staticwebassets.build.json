@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C4P+AqS6XuAFSz3ivP0OakMyZ6g6tpOcbV19mDx6XUk=",
+  "Source": "AzureADB2CProtectedWebApi",
+  "BasePath": "_content/AzureADB2CProtectedWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

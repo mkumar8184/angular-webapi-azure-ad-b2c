@@ -1,0 +1,11 @@
+<mat-toolbar color="primary">
+    <a mat-button class="title" href="/">Azure AD B2C & Web Api</a>
+
+    <div class="toolbar-spacer"></div>
+    <a mat-button *ngIf="!isLoggedIn" (click)="login()">Login</a>
+    <a mat-button *ngIf="isLoggedIn" (click)="logout()">Logout</a>
+    <a mat-button [routerLink]="['dashboard']">My Dashboard</a>
+
+
+</mat-toolbar>
+<router-outlet></router-outlet>

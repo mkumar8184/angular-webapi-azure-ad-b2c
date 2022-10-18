@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\bin\Debug\net6.0\AuthenticatioService.deps.json
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\bin\Debug\net6.0\AuthenticatioService.dll
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\bin\Debug\net6.0\AuthenticatioService.pdb
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.dll
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\refint\AuthenticatioService.dll
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\AuthenticatioService.pdb
+C:\Users\LENOVO\source\repos\AzureADB2CProtectedWebApi\AuthenticatioService\obj\Debug\net6.0\ref\AuthenticatioService.dll

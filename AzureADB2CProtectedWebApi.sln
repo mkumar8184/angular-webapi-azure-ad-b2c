@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADB2CProtectedWebApi", "AzureADB2CProtectedWebApi\AzureADB2CProtectedWebApi.csproj", "{D3BF6038-980E-46F4-B58C-A95E32C45474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticatioService", "AuthenticatioService\AuthenticatioService.csproj", "{8F89B15C-5C88-40B1-9AAF-E6D8863380C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BF6038-980E-46F4-B58C-A95E32C45474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BF6038-980E-46F4-B58C-A95E32C45474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BF6038-980E-46F4-B58C-A95E32C45474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BF6038-980E-46F4-B58C-A95E32C45474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F89B15C-5C88-40B1-9AAF-E6D8863380C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F89B15C-5C88-40B1-9AAF-E6D8863380C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F89B15C-5C88-40B1-9AAF-E6D8863380C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F89B15C-5C88-40B1-9AAF-E6D8863380C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1C35CE-E42F-4357-B158-BEA7989D7EFC}
+	EndGlobalSection
+EndGlobal
